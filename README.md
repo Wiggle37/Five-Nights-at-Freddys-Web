@@ -1,4 +1,4 @@
-Code not owned by me, fork of ["Five Nights at Freddys Web"](https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/) by (Wellsoussaaa)[https://github.com/wellsoussaaa]
+Code not owned by me, fork of ["Five Nights at Freddys Web"](https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/) by [Wellsoussaaa](https://github.com/wellsoussaaa)
 FNAF Web fork because my school blocked it lol
 
 ---
